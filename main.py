@@ -1,1 +1,1 @@
-print("Ich habe Spaß!!!!")
+print("Ich habe sehr viel Spaß!!!!")
