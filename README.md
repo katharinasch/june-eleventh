@@ -1,2 +1,2 @@
 # june-eleventh
-A workshop repo
+A workshop repo - wir werden heute Spass haben. 
